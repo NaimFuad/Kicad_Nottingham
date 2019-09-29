@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TIP125_PNP_BCE
-D PNP transistor, base/collector/emitter
-K Transistor PNP 2628011
-F https://my.element14.com/on-semiconductor/tip125g/transistor-pnp-60v-65w-to-220ab/dp/2628011?st=tip125
-$ENDCMP
-#
-#End Doc Library
